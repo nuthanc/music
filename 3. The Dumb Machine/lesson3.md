@@ -13,10 +13,15 @@ The primary takeaways from Lesson 3, "The Dumb Machine", focus on the physical l
 ### **Essential Playing Techniques**
 *   **Alternate Picking:** For speed and coordination, you must develop "alternate picking"—a constant **down-up-down-up** motion with the pick. Avoid the habit of only using downward strokes.
 *   **The Chromatic Scale:** This is the foundational exercise of playing through all 12 notes of the musical alphabet. Using four fingers on four frets across all strings allows you to play **29 notes** (about 2 1/3 octaves) without moving your hand position.
-*   **Finger Shifts:** When playing further up the neck where you no longer have "open" strings, you must use **finger shifts** to play five notes with four fingers. 
+*   **Finger Shifts:** When playing further up the neck(meaning higher pitches - but physically reverse up) where you no longer have "open" strings, you must use **finger shifts** to play five notes with four fingers. 
     *   **Index Shifts:** Generally used when moving **up** the scale; your index finger reaches out and then "scoops" back into position.
     *   **Pinky Shifts:** Generally used when moving **down** the scale; your pinky reaches out to pick up the extra note.
 *   **The "Box":** While many players think the "box" (the area your hand occupies) is four frets wide, the instructor argues it actually requires **six frets** of space to fully control the 12-note system anywhere on the neck.
 
 ### **The Importance of Sequential Learning**
 The instructor reiterates that you should not skip lessons. For example, jumping to Lesson 24 for the blues will be ineffective if you have not mastered the **intervals and modes** taught in Lessons 12 and 17. The goal of these early lessons is to move from being an "amateur" who knows a few riffs to a "real player" who understands the entire instrument.
+
+### Exercises
+
+* Chromatic Scale from Open Strings and first 4 frets
+* Later Chromatic Scale from further Up the neck: 1:02:37(Index Shifts)
